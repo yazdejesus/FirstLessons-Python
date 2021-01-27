@@ -1,0 +1,4 @@
+Yazald  |   1992-11-29  |   Male
+Kathy   |   1994-08-06  |   Female
+Kyanga  |   2019-11-11  |   Female
+Kyeran	|	2022-08-24	|	Male
